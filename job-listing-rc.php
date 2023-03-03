@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       Job Listing RC
- * Description:       This plugin is for job listing.
+ * Plugin Name:       Job Listings RC
+ * Description:       This plugin is for job listings.
  * Requires at least: 5.8
  * Requires PHP:      7.0
  * Version:           0.1.0
